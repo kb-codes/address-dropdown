@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "sortname": "AF",
+    "name": "Afghanistan",
+    "phonecode": "93"
+  },
+  {
+    "id": "2",
+    "sortname": "AL",
+    "name": "Albania",
+    "phonecode": "355"
+  },
+  {
+    "id": "3",
+    "sortname": "DZ",
+    "name": "Algeria",
+    "phonecode": "213"
+  },
+  {
+    "id": "4",
+    "sortname": "AS",
+    "name": "American Samoa",
+    "phonecode": "1684"
+  },
+  {
+    "id": "5",
+    "sortname": "AD",
+    "name": "Andorra",
+    "phonecode": "376"
+  },
+  {
+    "id": "6",
+    "sortname": "AO",
+    "name": "Angola",
+    "phonecode": "244"
+  },
+  {
+    "id": "7",
+    "sortname": "AI",
+    "name": "Anguilla",
+    "phonecode": "1264"
+  },
+  {
+    "id": "8",
+    "sortname": "AQ",
+    "name": "Antarctica",
+    "phonecode": "0"
+  },
+  {
+    "id": "9",
+    "sortname": "AG",
+    "name": "Antigua And Barbuda",
+    "phonecode": "1268"
+  },
+  {
+    "id": "10",
+    "sortname": "AR",
+    "name": "Argentina",
+    "phonecode": "54"
+  }
+]
